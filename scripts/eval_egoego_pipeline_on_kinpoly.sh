@@ -1,0 +1,23 @@
+python eval_egoego.py \
+--data_root_folder="data" \
+--normal_window=120 \
+--normal_project="exp/stage1_gravitynet_amass_runs/train" \
+--normal_exp_name="stage1_gravitynet_amass_set1" \
+--normal_n_dec_layers=2 \
+--normal_n_head=4 \
+--normal_d_k=256 \
+--normal_d_v=256 \
+--normal_d_model=256 \
+--window=60 \
+--project="exp/stage1_headnetnet_kinpoly_runs/train" \
+--exp_name="stage1_headnet_kinpoly_set1" \
+--freeze_of_cnn \
+--input_of_feats \
+--kinpoly_cfg="kinpoly/config/statear/debug_kinpoly_w_humor_processed_data.yml"  \
+--diffusion_window=120 \
+--diffusion_batch_size=32 \
+--diffusion_project="exp/stage2_motion_diffusion_amass_runs/train" \
+--diffusion_exp_name="stage2_cond_motion_diffusion_amass_set1" \
+--use_min_max \
+--canonicalize_init_head \
+--eval_on_kinpoly_mocap

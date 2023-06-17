@@ -1,0 +1,101 @@
+dataset_path: "/viscam/u/jiamanli/datasets/egomotion_syn_dataset/ego_syn_amass_for_kinpoly_headformer_scale_test/MoCapData"
+meta_id: mocap_meta
+data_file: mocap_annotations
+of_file: mocap_img_feats
+meta_wild_id: real_mocap
+data_wild_file: real_annotations
+of_file_wild: real_img_feats
+
+mujoco_model: 'humanoid_smpl_neutral_mesh'
+seed: 1
+fr_num: 100
+augment: false
+smooth: True
+
+use_of: false
+use_head: true
+use_action: false
+use_vel: false
+use_context: true
+
+
+model_specs:
+  model_v: 1
+  rnn_hdim: 256
+  cnn_fdim: 512
+  mlp_hsize: [1024, 512, 256]
+  mlp_htype: 'relu'
+  rnn_type: "gru"
+  w_rp: 50.0
+  w_rr: 50.0
+  w_p: 1.0
+  w_v: 1.0
+  w_ee: 10.0
+  w_op: 1.0
+  w_or: 10.0
+
+policy_specs:
+  policy_v: 2
+  log_std: -3.5
+  fix_std: true
+  gamma: 0.95
+  tau: 0.95
+  policy_htype: relu
+  policy_hsize: [512, 256]
+  policy_optimizer: 'Adam'
+  # policy_lr: 5.e-6
+  policy_lr: 5.e-5
+  policy_momentum: 0.0
+  policy_weightdecay: 0.0
+  value_htype: relu
+  value_hsize: [512, 256]
+  value_optimizer: 'Adam'
+  value_lr: 3.e-4
+  value_momentum: 0.0
+  value_weightdecay: 0.0
+  clip_epsilon: 0.2
+  min_batch_size: 8000
+  mini_batch_size: 8000
+  # min_batch_size: 50
+  # mini_batch_size: 50
+  num_optim_epoch: 10
+  fix_std: true
+  reward_id: 'dynamic_supervision_v3'
+  end_reward: false
+  max_iter_num: 20000
+  save_model_interval: 50
+
+  reward_weights:
+    k_hp: 45
+    k_hq: 20
+    k_p: 20
+    k_jp: 50
+
+    k_rp: 45
+    k_rq: 45
+    k_act_p: 5
+    k_act_v: 0.001
+
+
+lr: 1.e-4
+weightdecay: 0.0
+num_epoch: 2000
+num_epoch_fix: 100
+num_sample: 5000
+batch_size: 256
+iter_method: iter
+shuffle: true
+save_model_interval: 20
+fr_margin: 5
+has_z: true
+
+add_noise: true
+noise_std: 0.01
+
+obs_coord: 'heading'
+root_deheading: true
+obs_global: true
+obs_max_out: true
+obs_max_out_dist: 0.5
+obs_quat: true
+

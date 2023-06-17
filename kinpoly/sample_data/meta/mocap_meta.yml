@@ -1,0 +1,1685 @@
+action_type:
+  None-0213_take_01: none
+  None-0213_take_02: none
+  None-0213_take_03: none
+  None-0213_take_04: none
+  None-0213_take_05: none
+  None-0213_take_06: none
+  None-0213_take_07: none
+  None-0213_take_08: none
+  None-0213_take_09: none
+  None-0213_take_10: none
+  None-0213_take_11: none
+  None-0213_take_12: none
+  None-0213_take_13: none
+  None-0213_take_14: none
+  None-0213_take_15: none
+  None-0213_take_16: none
+  None-0213_take_17: none
+  None-0213_take_18: none
+  None-0213_take_19: none
+  None-0213_take_20: none
+  None-0213_take_21: none
+  None-0213_take_22: none
+  None-0213_take_23: none
+  None-0213_take_24: none
+  None-0213_take_25: none
+  None-0213_take_26: none
+  None-0213_take_27: none
+  None-0213_take_28: none
+  None-0213_take_29: none
+  None-0213_take_30: none
+  None-0213_take_31: none
+  None-0213_take_32: none
+  None-0213_take_33: none
+  None-0213_take_34: none
+  None-0213_take_35: none
+  None-0213_take_36: none
+  None-0213_take_37: none
+  None-0213_take_38: none
+  None-0213_take_39: none
+  None-0213_take_40: none
+  None-1205_take_01: none
+  None-1205_take_03: none
+  None-1205_take_04: none
+  None-1205_take_05: none
+  None-1205_take_06: none
+  None-1205_take_07: none
+  None-1205_take_08: none
+  None-1205_take_09: none
+  None-1205_take_10: none
+  None-1205_take_11: none
+  None-1205_take_12: none
+  None-1205_take_13: none
+  None-1205_take_14: none
+  None-1205_take_15: none
+  avoid-1213_take_25: avoid
+  avoid-1213_take_26: avoid
+  avoid-1213_take_27: avoid
+  avoid-1213_take_28: avoid
+  avoid-1213_take_29: avoid
+  avoid-1213_take_30: avoid
+  avoid-1213_take_31: avoid
+  avoid-1213_take_32: avoid
+  avoid-1213_take_33: avoid
+  avoid-1213_take_34: avoid
+  avoid-1213_take_35: avoid
+  avoid-1213_take_36: avoid
+  avoid-1213_take_37: avoid
+  avoid-1213_take_38: avoid
+  avoid-1213_take_39: avoid
+  avoid-1213_take_40: avoid
+  avoid-1213_take_41: avoid
+  avoid-1213_take_42: avoid
+  avoid-1213_take_43: avoid
+  avoid-1213_take_44: avoid
+  avoid-1213_take_46: avoid
+  avoid-1213_take_47: avoid
+  avoid-1213_take_48: avoid
+  avoid-1213_take_49: avoid
+  avoid-1213_take_50: avoid
+  avoid-1219_take_102: avoid
+  avoid-1219_take_103: avoid
+  avoid-1219_take_104: avoid
+  avoid-1219_take_105: avoid
+  avoid-1219_take_106: avoid
+  avoid-1219_take_107: avoid
+  avoid-1219_take_108: avoid
+  avoid-1219_take_109: avoid
+  avoid-1219_take_110: avoid
+  avoid-1219_take_111: avoid
+  avoid-1219_take_112: avoid
+  avoid-1219_take_113: avoid
+  avoid-1219_take_114: avoid
+  avoid-1219_take_115: avoid
+  avoid-1219_take_116: avoid
+  avoid-1219_take_117: avoid
+  avoid-1219_take_26: avoid
+  avoid-1219_take_27: avoid
+  avoid-1219_take_28: avoid
+  avoid-1219_take_29: avoid
+  avoid-1219_take_30: avoid
+  avoid-1219_take_31: avoid
+  avoid-1219_take_32: avoid
+  avoid-1219_take_33: avoid
+  avoid-1219_take_34: avoid
+  avoid-1219_take_35: avoid
+  avoid-1219_take_36: avoid
+  avoid-1219_take_37: avoid
+  avoid-1219_take_38: avoid
+  avoid-1219_take_39: avoid
+  avoid-1219_take_40: avoid
+  push-1213_take_51: push
+  push-1213_take_52: push
+  push-1213_take_53: push
+  push-1213_take_54: push
+  push-1213_take_55: push
+  push-1213_take_56: push
+  push-1213_take_57: push
+  push-1213_take_58: push
+  push-1213_take_59: push
+  push-1213_take_60: push
+  push-1213_take_61: push
+  push-1213_take_62: push
+  push-1213_take_63: push
+  push-1213_take_64: push
+  push-1213_take_65: push
+  push-1213_take_66: push
+  push-1213_take_67: push
+  push-1213_take_68: push
+  push-1213_take_69: push
+  push-1213_take_70: push
+  push-1213_take_71: push
+  push-1213_take_72: push
+  push-1213_take_73: push
+  push-1213_take_74: push
+  push-1213_take_75: push
+  push-1219_take_118: push
+  push-1219_take_119: push
+  push-1219_take_120: push
+  push-1219_take_121: push
+  push-1219_take_122: push
+  push-1219_take_123: push
+  push-1219_take_124: push
+  push-1219_take_126: push
+  push-1219_take_127: push
+  push-1219_take_128: push
+  push-1219_take_129: push
+  push-1219_take_130: push
+  push-1219_take_131: push
+  push-1219_take_132: push
+  push-1219_take_133: push
+  push-1219_take_41: push
+  push-1219_take_42: push
+  push-1219_take_43: push
+  push-1219_take_44: push
+  push-1219_take_45: push
+  push-1219_take_46: push
+  push-1219_take_47: push
+  push-1219_take_48: push
+  push-1219_take_49: push
+  push-1219_take_50: push
+  push-1219_take_51: push
+  push-1219_take_52: push
+  push-1219_take_53: push
+  push-1219_take_55: push
+  push-1219_take_56: push
+  sit-1001_take_01: sit
+  sit-1001_take_02: sit
+  sit-1001_take_03: sit
+  sit-1001_take_04: sit
+  sit-1001_take_05: sit
+  sit-1001_take_06: sit
+  sit-1001_take_07: sit
+  sit-1001_take_08: sit
+  sit-1011_take_01: sit
+  sit-1011_take_02: sit
+  sit-1011_take_03: sit
+  sit-1011_take_04: sit
+  sit-1011_take_05: sit
+  sit-1011_take_06: sit
+  sit-1011_take_07: sit
+  sit-1011_take_08: sit
+  sit-1011_take_09: sit
+  sit-1011_take_10: sit
+  sit-1011_take_11: sit
+  sit-1011_take_12: sit
+  sit-1011_take_13: sit
+  sit-1011_take_14: sit
+  sit-1011_take_15: sit
+  sit-1011_take_16: sit
+  sit-1219_take_01: sit
+  sit-1219_take_02: sit
+  sit-1219_take_03: sit
+  sit-1219_take_04: sit
+  sit-1219_take_05: sit
+  sit-1219_take_06: sit
+  sit-1219_take_07: sit
+  sit-1219_take_08: sit
+  sit-1219_take_09: sit
+  sit-1219_take_10: sit
+  sit-1219_take_100: sit
+  sit-1219_take_101: sit
+  sit-1219_take_11: sit
+  sit-1219_take_12: sit
+  sit-1219_take_14: sit
+  sit-1219_take_15: sit
+  sit-1219_take_17: sit
+  sit-1219_take_18: sit
+  sit-1219_take_20: sit
+  sit-1219_take_21: sit
+  sit-1219_take_22: sit
+  sit-1219_take_23: sit
+  sit-1219_take_24: sit
+  sit-1219_take_78: sit
+  sit-1219_take_79: sit
+  sit-1219_take_80: sit
+  sit-1219_take_81: sit
+  sit-1219_take_84: sit
+  sit-1219_take_85: sit
+  sit-1219_take_86: sit
+  sit-1219_take_87: sit
+  sit-1219_take_88: sit
+  sit-1219_take_89: sit
+  sit-1219_take_90: sit
+  sit-1219_take_91: sit
+  sit-1219_take_92: sit
+  sit-1219_take_93: sit
+  sit-1219_take_94: sit
+  sit-1219_take_95: sit
+  sit-1219_take_96: sit
+  sit-1219_take_97: sit
+  sit-1219_take_98: sit
+  sit-1219_take_99: sit
+  step-1219_take_134: step
+  step-1219_take_135: step
+  step-1219_take_136: step
+  step-1219_take_137: step
+  step-1219_take_138: step
+  step-1219_take_139: step
+  step-1219_take_140: step
+  step-1219_take_141: step
+  step-1219_take_142: step
+  step-1219_take_143: step
+  step-1219_take_144: step
+  step-1219_take_145: step
+  step-1219_take_146: step
+  step-1219_take_147: step
+  step-1219_take_148: step
+  step-1219_take_149: step
+  step-1219_take_153: step
+  step-1219_take_154: step
+  step-1219_take_155: step
+  step-1219_take_156: step
+  step-1219_take_157: step
+  step-1219_take_158: step
+  step-1219_take_159: step
+  step-1219_take_160: step
+  step-1219_take_161: step
+  step-1219_take_162: step
+  step-1219_take_163: step
+  step-1219_take_164: step
+  step-1219_take_165: step
+  step-1219_take_166: step
+  step-1219_take_167: step
+  step-1219_take_168: step
+  step-1219_take_57: step
+  step-1219_take_58: step
+  step-1219_take_59: step
+  step-1219_take_60: step
+  step-1219_take_61: step
+  step-1219_take_62: step
+  step-1219_take_63: step
+  step-1219_take_64: step
+  step-1219_take_65: step
+  step-1219_take_66: step
+  step-1219_take_67: step
+  step-1219_take_68: step
+  step-1219_take_69: step
+  step-1219_take_70: step
+  step-1219_take_71: step
+  step-1219_take_72: step
+capture:
+  fps: 30
+object:
+  None: []
+  avoid:
+  - Can
+  push:
+  - box
+  - table
+  sit:
+  - chair
+  step:
+  - step
+offset_z:
+  avoid: 0.0
+  none: 0.0
+  push: 0.0
+  sit: 0.0
+  step: 0.0
+test:
+- sit-1011_take_10
+- sit-1011_take_11
+- sit-1011_take_12
+- sit-1011_take_13
+- sit-1011_take_14
+- sit-1011_take_16
+- avoid-1213_take_41
+- avoid-1213_take_42
+- avoid-1213_take_43
+- avoid-1213_take_44
+- avoid-1213_take_46
+- avoid-1213_take_47
+- avoid-1213_take_48
+- push-1213_take_68
+- push-1213_take_69
+- push-1213_take_70
+- push-1213_take_71
+- push-1213_take_75
+- step-1219_take_166
+- step-1219_take_167
+- step-1219_take_168
+- sit-1219_take_17
+- sit-1219_take_18
+- sit-1219_take_20
+- sit-1219_take_21
+- sit-1219_take_22
+- avoid-1219_take_38
+- avoid-1219_take_39
+- avoid-1219_take_40
+- push-1219_take_53
+- push-1219_take_55
+- push-1219_take_56
+- step-1219_take_70
+- step-1219_take_71
+- step-1219_take_72
+- sit-1219_take_95
+- sit-1219_take_96
+- sit-1219_take_97
+- sit-1219_take_98
+- sit-1219_take_99
+- avoid-1219_take_114
+- avoid-1219_take_116
+- avoid-1219_take_115
+- push-1219_take_130
+- push-1219_take_131
+- push-1219_take_132
+- push-1219_take_133
+- step-1219_take_146
+- step-1219_take_147
+- step-1219_take_148
+- step-1219_take_149
+- None-0213_take_05
+- None-0213_take_06
+- None-0213_take_15
+- None-0213_take_16
+- None-0213_take_25
+- None-0213_take_26
+- None-0213_take_35
+- None-0213_take_36
+- None-1205_take_11
+- None-1205_take_12
+- None-1205_take_13
+- None-1205_take_14
+- None-1205_take_15
+train:
+- sit-1001_take_01
+- sit-1001_take_02
+- sit-1001_take_03
+- sit-1001_take_04
+- sit-1001_take_05
+- sit-1001_take_06
+- sit-1001_take_07
+- sit-1001_take_08
+- sit-1011_take_01
+- sit-1011_take_02
+- sit-1011_take_03
+- sit-1011_take_04
+- sit-1011_take_05
+- sit-1011_take_06
+- sit-1011_take_07
+- sit-1011_take_08
+- avoid-1213_take_25
+- avoid-1213_take_26
+- avoid-1213_take_27
+- avoid-1213_take_28
+- avoid-1213_take_29
+- avoid-1213_take_30
+- avoid-1213_take_31
+- avoid-1213_take_32
+- avoid-1213_take_33
+- avoid-1213_take_34
+- avoid-1213_take_35
+- avoid-1213_take_36
+- avoid-1213_take_37
+- avoid-1213_take_38
+- avoid-1213_take_39
+- avoid-1213_take_40
+- avoid-1213_take_49
+- push-1213_take_51
+- push-1213_take_52
+- push-1213_take_53
+- push-1213_take_54
+- push-1213_take_55
+- push-1213_take_56
+- push-1213_take_57
+- push-1213_take_58
+- push-1213_take_59
+- push-1213_take_60
+- push-1213_take_61
+- push-1213_take_62
+- push-1213_take_63
+- push-1213_take_64
+- push-1213_take_65
+- push-1213_take_66
+- push-1213_take_67
+- step-1219_take_153
+- step-1219_take_154
+- step-1219_take_155
+- step-1219_take_156
+- step-1219_take_157
+- step-1219_take_158
+- step-1219_take_160
+- step-1219_take_161
+- step-1219_take_162
+- step-1219_take_163
+- step-1219_take_164
+- step-1219_take_165
+- sit-1219_take_01
+- sit-1219_take_02
+- sit-1219_take_03
+- sit-1219_take_04
+- sit-1219_take_05
+- sit-1219_take_06
+- sit-1219_take_07
+- sit-1219_take_08
+- sit-1219_take_09
+- sit-1219_take_10
+- sit-1219_take_11
+- sit-1219_take_12
+- sit-1219_take_14
+- sit-1219_take_15
+- avoid-1219_take_26
+- avoid-1219_take_27
+- avoid-1219_take_28
+- avoid-1219_take_29
+- avoid-1219_take_30
+- avoid-1219_take_31
+- avoid-1219_take_32
+- avoid-1219_take_33
+- avoid-1219_take_34
+- avoid-1219_take_35
+- avoid-1219_take_36
+- push-1219_take_41
+- push-1219_take_42
+- push-1219_take_43
+- push-1219_take_44
+- push-1219_take_45
+- push-1219_take_46
+- push-1219_take_47
+- push-1219_take_48
+- push-1219_take_49
+- push-1219_take_50
+- push-1219_take_51
+- push-1219_take_52
+- step-1219_take_57
+- step-1219_take_58
+- step-1219_take_59
+- step-1219_take_60
+- step-1219_take_61
+- step-1219_take_62
+- step-1219_take_63
+- step-1219_take_64
+- step-1219_take_65
+- step-1219_take_66
+- step-1219_take_67
+- step-1219_take_68
+- step-1219_take_69
+- sit-1219_take_79
+- sit-1219_take_80
+- sit-1219_take_81
+- sit-1219_take_84
+- sit-1219_take_85
+- sit-1219_take_86
+- sit-1219_take_87
+- sit-1219_take_88
+- sit-1219_take_89
+- sit-1219_take_90
+- sit-1219_take_91
+- sit-1219_take_92
+- sit-1219_take_93
+- sit-1219_take_94
+- avoid-1219_take_102
+- avoid-1219_take_103
+- avoid-1219_take_104
+- avoid-1219_take_105
+- avoid-1219_take_106
+- avoid-1219_take_107
+- avoid-1219_take_108
+- avoid-1219_take_109
+- avoid-1219_take_110
+- avoid-1219_take_111
+- avoid-1219_take_112
+- avoid-1219_take_113
+- push-1219_take_118
+- push-1219_take_119
+- push-1219_take_120
+- push-1219_take_121
+- push-1219_take_122
+- push-1219_take_123
+- push-1219_take_124
+- push-1219_take_126
+- push-1219_take_127
+- push-1219_take_128
+- push-1219_take_129
+- step-1219_take_134
+- step-1219_take_135
+- step-1219_take_136
+- step-1219_take_137
+- step-1219_take_138
+- step-1219_take_139
+- step-1219_take_140
+- step-1219_take_141
+- step-1219_take_142
+- step-1219_take_143
+- step-1219_take_144
+- step-1219_take_145
+- None-0213_take_01
+- None-0213_take_02
+- None-0213_take_03
+- None-0213_take_04
+- None-0213_take_07
+- None-0213_take_08
+- None-0213_take_09
+- None-0213_take_10
+- None-0213_take_11
+- None-0213_take_12
+- None-0213_take_13
+- None-0213_take_14
+- None-0213_take_17
+- None-0213_take_18
+- None-0213_take_19
+- None-0213_take_20
+- None-0213_take_21
+- None-0213_take_22
+- None-0213_take_23
+- None-0213_take_24
+- None-0213_take_27
+- None-0213_take_28
+- None-0213_take_29
+- None-0213_take_30
+- None-0213_take_31
+- None-0213_take_32
+- None-0213_take_33
+- None-0213_take_34
+- None-0213_take_37
+- None-0213_take_38
+- None-0213_take_39
+- None-0213_take_40
+- None-1205_take_01
+- None-1205_take_03
+- None-1205_take_04
+- None-1205_take_05
+- None-1205_take_06
+- None-1205_take_07
+- None-1205_take_08
+- None-1205_take_09
+- None-1205_take_10
+video_mocap_sync:
+  None-0213_take_01:
+  - -29
+  - 29
+  - 1930
+  None-0213_take_02:
+  - 0
+  - 0
+  - 1924
+  None-0213_take_03:
+  - -4
+  - 4
+  - 1887
+  None-0213_take_04:
+  - 0
+  - 0
+  - 1927
+  None-0213_take_05:
+  - 203
+  - 0
+  - 1853
+  None-0213_take_06:
+  - 0
+  - 0
+  - 1943
+  None-0213_take_07:
+  - 0
+  - 0
+  - 1897
+  None-0213_take_08:
+  - 0
+  - 0
+  - 1855
+  None-0213_take_09:
+  - 0
+  - 0
+  - 1846
+  None-0213_take_10:
+  - 0
+  - 0
+  - 1924
+  None-0213_take_11:
+  - 0
+  - 10
+  - 1853
+  None-0213_take_12:
+  - 0
+  - 40
+  - 1968
+  None-0213_take_13:
+  - 0
+  - 20
+  - 2179
+  None-0213_take_14:
+  - -2
+  - 12
+  - 1910
+  None-0213_take_15:
+  - 0
+  - 10
+  - 1936
+  None-0213_take_16:
+  - -4
+  - 4
+  - 1938
+  None-0213_take_17:
+  - 0
+  - 0
+  - 1924
+  None-0213_take_18:
+  - -1
+  - 1
+  - 1800
+  None-0213_take_19:
+  - 0
+  - 0
+  - 1910
+  None-0213_take_20:
+  - 0
+  - 0
+  - 2189
+  None-0213_take_21:
+  - 0
+  - 0
+  - 1908
+  None-0213_take_22:
+  - 0
+  - 0
+  - 1885
+  None-0213_take_23:
+  - 0
+  - 0
+  - 1887
+  None-0213_take_24:
+  - -1
+  - 1
+  - 2007
+  None-0213_take_25:
+  - -2
+  - 2
+  - 1900
+  None-0213_take_26:
+  - -2
+  - 2
+  - 1971
+  None-0213_take_27:
+  - -3
+  - 3
+  - 1875
+  None-0213_take_28:
+  - -3
+  - 3
+  - 1874
+  None-0213_take_29:
+  - -4
+  - 4
+  - 1605
+  None-0213_take_30:
+  - -3
+  - 3
+  - 1937
+  None-0213_take_31:
+  - -14
+  - 14
+  - 1937
+  None-0213_take_32:
+  - 0
+  - 0
+  - 1894
+  None-0213_take_33:
+  - 0
+  - 0
+  - 1898
+  None-0213_take_34:
+  - 2
+  - 60
+  - 1936
+  None-0213_take_35:
+  - 1
+  - 0
+  - 2054
+  None-0213_take_36:
+  - -1
+  - 33
+  - 1920
+  None-0213_take_37:
+  - 0
+  - 0
+  - 1870
+  None-0213_take_38:
+  - 0
+  - 0
+  - 1850
+  None-0213_take_39:
+  - -3
+  - 3
+  - 1910
+  None-0213_take_40:
+  - 0
+  - 0
+  - 1860
+  None-1205_take_01:
+  - -4
+  - 64
+  - 1915
+  None-1205_take_03:
+  - 0
+  - 40
+  - 1839
+  None-1205_take_04:
+  - -1
+  - 41
+  - 1960
+  None-1205_take_05:
+  - -2
+  - 42
+  - 1887
+  None-1205_take_06:
+  - -1
+  - 41
+  - 1885
+  None-1205_take_07:
+  - -2
+  - 42
+  - 1924
+  None-1205_take_08:
+  - -1
+  - 41
+  - 1906
+  None-1205_take_09:
+  - 0
+  - 40
+  - 1924
+  None-1205_take_10:
+  - -3
+  - 43
+  - 1928
+  None-1205_take_11:
+  - -2
+  - 42
+  - 1860
+  None-1205_take_12:
+  - -2
+  - 42
+  - 1924
+  None-1205_take_13:
+  - -2
+  - 42
+  - 1854
+  None-1205_take_14:
+  - -2
+  - 42
+  - 1958
+  None-1205_take_15:
+  - -3
+  - 43
+  - 1955
+  avoid-1213_take_25:
+  - -2
+  - 93
+  - 264
+  avoid-1213_take_26:
+  - -3
+  - 104
+  - 269
+  avoid-1213_take_27:
+  - -2
+  - 73
+  - 237
+  avoid-1213_take_28:
+  - -4
+  - 94
+  - 260
+  avoid-1213_take_29:
+  - -1
+  - 91
+  - 258
+  avoid-1213_take_30:
+  - -3
+  - 90
+  - 208
+  avoid-1213_take_31:
+  - -5
+  - 91
+  - 220
+  avoid-1213_take_32:
+  - -4
+  - 48
+  - 207
+  avoid-1213_take_33:
+  - -1
+  - 80
+  - 255
+  avoid-1213_take_34:
+  - -5
+  - 95
+  - 279
+  avoid-1213_take_35:
+  - -1
+  - 85
+  - 252
+  avoid-1213_take_36:
+  - -2
+  - 100
+  - 262
+  avoid-1213_take_37:
+  - -1
+  - 93
+  - 251
+  avoid-1213_take_38:
+  - -2
+  - 89
+  - 245
+  avoid-1213_take_39:
+  - -2
+  - 83
+  - 242
+  avoid-1213_take_40:
+  - -3
+  - 86
+  - 244
+  avoid-1213_take_41:
+  - -2
+  - 82
+  - 230
+  avoid-1213_take_42:
+  - -3
+  - 94
+  - 229
+  avoid-1213_take_43:
+  - -1
+  - 88
+  - 248
+  avoid-1213_take_44:
+  - -2
+  - 80
+  - 233
+  avoid-1213_take_46:
+  - -4
+  - 81
+  - 248
+  avoid-1213_take_47:
+  - -3
+  - 83
+  - 228
+  avoid-1213_take_48:
+  - -2
+  - 83
+  - 241
+  avoid-1213_take_49:
+  - -4
+  - 83
+  - 240
+  avoid-1213_take_50:
+  - -3
+  - 94
+  - 247
+  avoid-1219_take_102:
+  - -3
+  - 109
+  - 380
+  avoid-1219_take_103:
+  - -4
+  - 111
+  - 297
+  avoid-1219_take_104:
+  - -2
+  - 92
+  - 308
+  avoid-1219_take_105:
+  - -5
+  - 126
+  - 320
+  avoid-1219_take_106:
+  - -5
+  - 100
+  - 311
+  avoid-1219_take_107:
+  - -4
+  - 103
+  - 263
+  avoid-1219_take_108:
+  - -3
+  - 94
+  - 288
+  avoid-1219_take_109:
+  - -4
+  - 105
+  - 260
+  avoid-1219_take_110:
+  - -3
+  - 105
+  - 315
+  avoid-1219_take_111:
+  - -3
+  - 103
+  - 324
+  avoid-1219_take_112:
+  - -3
+  - 101
+  - 324
+  avoid-1219_take_113:
+  - -3
+  - 113
+  - 305
+  avoid-1219_take_114:
+  - -3
+  - 98
+  - 322
+  avoid-1219_take_115:
+  - -3
+  - 126
+  - 350
+  avoid-1219_take_116:
+  - -4
+  - 114
+  - 269
+  avoid-1219_take_117:
+  - -4
+  - 100
+  - 278
+  avoid-1219_take_26:
+  - -4
+  - 105
+  - 275
+  avoid-1219_take_27:
+  - -2
+  - 107
+  - 301
+  avoid-1219_take_28:
+  - -4
+  - 101
+  - 282
+  avoid-1219_take_29:
+  - 0
+  - 113
+  - 279
+  avoid-1219_take_30:
+  - -2
+  - 102
+  - 240
+  avoid-1219_take_31:
+  - -5
+  - 100
+  - 258
+  avoid-1219_take_32:
+  - -4
+  - 99
+  - 300
+  avoid-1219_take_33:
+  - 4
+  - 103
+  - 300
+  avoid-1219_take_34:
+  - -5
+  - 109
+  - 295
+  avoid-1219_take_35:
+  - 0
+  - 106
+  - 310
+  avoid-1219_take_36:
+  - -4
+  - 90
+  - 269
+  avoid-1219_take_37:
+  - -1
+  - 97
+  - 275
+  avoid-1219_take_38:
+  - -4
+  - 165
+  - 364
+  avoid-1219_take_39:
+  - -2
+  - 103
+  - 312
+  avoid-1219_take_40:
+  - -4
+  - 100
+  - 275
+  push-1213_take_51:
+  - -5
+  - 74
+  - 271
+  push-1213_take_52:
+  - -4
+  - 82
+  - 253
+  push-1213_take_53:
+  - -1
+  - 86
+  - 264
+  push-1213_take_54:
+  - -4
+  - 84
+  - 241
+  push-1213_take_55:
+  - -3
+  - 87
+  - 269
+  push-1213_take_56:
+  - -4
+  - 71
+  - 263
+  push-1213_take_57:
+  - -1
+  - 80
+  - 241
+  push-1213_take_58:
+  - -3
+  - 76
+  - 248
+  push-1213_take_59:
+  - -2
+  - 82
+  - 218
+  push-1213_take_60:
+  - -3
+  - 75
+  - 234
+  push-1213_take_61:
+  - -4
+  - 77
+  - 263
+  push-1213_take_62:
+  - -2
+  - 74
+  - 280
+  push-1213_take_63:
+  - -3
+  - 68
+  - 256
+  push-1213_take_64:
+  - -2
+  - 77
+  - 284
+  push-1213_take_65:
+  - -3
+  - 93
+  - 309
+  push-1213_take_66:
+  - -3
+  - 87
+  - 304
+  push-1213_take_67:
+  - -2
+  - 87
+  - 277
+  push-1213_take_68:
+  - -4
+  - 88
+  - 256
+  push-1213_take_69:
+  - -2
+  - 85
+  - 229
+  push-1213_take_70:
+  - 5
+  - 78
+  - 236
+  push-1213_take_71:
+  - -2
+  - 81
+  - 266
+  push-1213_take_72:
+  - -5
+  - 82
+  - 255
+  push-1213_take_73:
+  - -3
+  - 82
+  - 273
+  push-1213_take_74:
+  - -2
+  - 66
+  - 227
+  push-1213_take_75:
+  - -4
+  - 59
+  - 220
+  push-1219_take_118:
+  - -4
+  - 100
+  - 371
+  push-1219_take_119:
+  - -2
+  - 106
+  - 376
+  push-1219_take_120:
+  - -3
+  - 105
+  - 340
+  push-1219_take_121:
+  - -2
+  - 99
+  - 318
+  push-1219_take_122:
+  - -4
+  - 98
+  - 336
+  push-1219_take_123:
+  - -3
+  - 110
+  - 343
+  push-1219_take_124:
+  - 1
+  - 99
+  - 342
+  push-1219_take_126:
+  - -2
+  - 119
+  - 301
+  push-1219_take_127:
+  - -2
+  - 108
+  - 336
+  push-1219_take_128:
+  - -4
+  - 100
+  - 344
+  push-1219_take_129:
+  - -2
+  - 116
+  - 350
+  push-1219_take_130:
+  - -3
+  - 104
+  - 367
+  push-1219_take_131:
+  - -3
+  - 111
+  - 352
+  push-1219_take_132:
+  - -2
+  - 95
+  - 339
+  push-1219_take_133:
+  - -3
+  - 104
+  - 317
+  push-1219_take_41:
+  - -1
+  - 97
+  - 289
+  push-1219_take_42:
+  - -4
+  - 89
+  - 277
+  push-1219_take_43:
+  - -3
+  - 104
+  - 318
+  push-1219_take_44:
+  - -3
+  - 110
+  - 322
+  push-1219_take_45:
+  - -3
+  - 113
+  - 291
+  push-1219_take_46:
+  - -5
+  - 115
+  - 361
+  push-1219_take_47:
+  - 4
+  - 106
+  - 319
+  push-1219_take_48:
+  - -1
+  - 100
+  - 239
+  push-1219_take_49:
+  - -5
+  - 108
+  - 289
+  push-1219_take_50:
+  - 0
+  - 102
+  - 301
+  push-1219_take_51:
+  - -1
+  - 107
+  - 339
+  push-1219_take_52:
+  - -1
+  - 97
+  - 280
+  push-1219_take_53:
+  - -5
+  - 95
+  - 271
+  push-1219_take_55:
+  - -5
+  - 108
+  - 303
+  push-1219_take_56:
+  - -2
+  - 95
+  - 262
+  sit-1001_take_01:
+  - -2
+  - 75
+  - 342
+  sit-1001_take_02:
+  - -3
+  - 141
+  - 372
+  sit-1001_take_03:
+  - -4
+  - 96
+  - 381
+  sit-1001_take_04:
+  - -4
+  - 89
+  - 302
+  sit-1001_take_05:
+  - -4
+  - 93
+  - 394
+  sit-1001_take_06:
+  - -2
+  - 95
+  - 395
+  sit-1001_take_07:
+  - -2
+  - 85
+  - 378
+  sit-1001_take_08:
+  - -3
+  - 98
+  - 332
+  sit-1011_take_01:
+  - -2
+  - 147
+  - 389
+  sit-1011_take_02:
+  - -4
+  - 90
+  - 310
+  sit-1011_take_03:
+  - -3
+  - 89
+  - 289
+  sit-1011_take_04:
+  - -2
+  - 103
+  - 357
+  sit-1011_take_05:
+  - -2
+  - 95
+  - 400
+  sit-1011_take_06:
+  - -2
+  - 86
+  - 371
+  sit-1011_take_07:
+  - -2
+  - 105
+  - 369
+  sit-1011_take_08:
+  - -3
+  - 90
+  - 329
+  sit-1011_take_09:
+  - -2
+  - 114
+  - 354
+  sit-1011_take_10:
+  - 2
+  - 104
+  - 347
+  sit-1011_take_11:
+  - -2
+  - 97
+  - 328
+  sit-1011_take_12:
+  - -2
+  - 110
+  - 423
+  sit-1011_take_13:
+  - -5
+  - 101
+  - 412
+  sit-1011_take_14:
+  - -3
+  - 108
+  - 340
+  sit-1011_take_15:
+  - -2
+  - 94
+  - 320
+  sit-1011_take_16:
+  - -2
+  - 103
+  - 354
+  sit-1219_take_01:
+  - -1
+  - 97
+  - 405
+  sit-1219_take_02:
+  - -1
+  - 95
+  - 377
+  sit-1219_take_03:
+  - 0
+  - 111
+  - 393
+  sit-1219_take_04:
+  - 1
+  - 113
+  - 405
+  sit-1219_take_05:
+  - -4
+  - 107
+  - 424
+  sit-1219_take_06:
+  - -5
+  - 113
+  - 414
+  sit-1219_take_07:
+  - -3
+  - 129
+  - 387
+  sit-1219_take_08:
+  - -3
+  - 130
+  - 463
+  sit-1219_take_09:
+  - -3
+  - 92
+  - 461
+  sit-1219_take_10:
+  - -5
+  - 102
+  - 512
+  sit-1219_take_100:
+  - 4
+  - 93
+  - 393
+  sit-1219_take_101:
+  - 2
+  - 87
+  - 300
+  sit-1219_take_11:
+  - -2
+  - 116
+  - 545
+  sit-1219_take_12:
+  - -1
+  - 111
+  - 513
+  sit-1219_take_14:
+  - -3
+  - 108
+  - 382
+  sit-1219_take_15:
+  - -5
+  - 129
+  - 407
+  sit-1219_take_17:
+  - -1
+  - 120
+  - 491
+  sit-1219_take_18:
+  - -2
+  - 109
+  - 437
+  sit-1219_take_20:
+  - 1
+  - 117
+  - 376
+  sit-1219_take_21:
+  - -5
+  - 117
+  - 500
+  sit-1219_take_22:
+  - 1
+  - 107
+  - 411
+  sit-1219_take_23:
+  - -3
+  - 105
+  - 355
+  sit-1219_take_24:
+  - -3
+  - 116
+  - 377
+  sit-1219_take_78:
+  - -4
+  - 122
+  - 442
+  sit-1219_take_79:
+  - -2
+  - 168
+  - 402
+  sit-1219_take_80:
+  - -2
+  - 120
+  - 321
+  sit-1219_take_81:
+  - -2
+  - 119
+  - 402
+  sit-1219_take_84:
+  - -3
+  - 120
+  - 373
+  sit-1219_take_85:
+  - -3
+  - 107
+  - 338
+  sit-1219_take_86:
+  - -1
+  - 116
+  - 394
+  sit-1219_take_87:
+  - -5
+  - 104
+  - 428
+  sit-1219_take_88:
+  - -4
+  - 103
+  - 475
+  sit-1219_take_89:
+  - -2
+  - 104
+  - 467
+  sit-1219_take_90:
+  - -4
+  - 94
+  - 457
+  sit-1219_take_91:
+  - -4
+  - 97
+  - 437
+  sit-1219_take_92:
+  - -5
+  - 100
+  - 472
+  sit-1219_take_93:
+  - -2
+  - 85
+  - 404
+  sit-1219_take_94:
+  - -2
+  - 98
+  - 385
+  sit-1219_take_95:
+  - -4
+  - 96
+  - 325
+  sit-1219_take_96:
+  - -2
+  - 83
+  - 317
+  sit-1219_take_97:
+  - -1
+  - 78
+  - 284
+  sit-1219_take_98:
+  - -9
+  - 87
+  - 311
+  sit-1219_take_99:
+  - -2
+  - 91
+  - 457
+  step-1219_take_134:
+  - -1
+  - 122
+  - 354
+  step-1219_take_135:
+  - -1
+  - 115
+  - 325
+  step-1219_take_136:
+  - -4
+  - 111
+  - 310
+  step-1219_take_137:
+  - -1
+  - 104
+  - 298
+  step-1219_take_138:
+  - -2
+  - 114
+  - 368
+  step-1219_take_139:
+  - -4
+  - 109
+  - 315
+  step-1219_take_140:
+  - -1
+  - 94
+  - 257
+  step-1219_take_141:
+  - -3
+  - 110
+  - 309
+  step-1219_take_142:
+  - -3
+  - 93
+  - 308
+  step-1219_take_143:
+  - 0
+  - 100
+  - 301
+  step-1219_take_144:
+  - -2
+  - 114
+  - 316
+  step-1219_take_145:
+  - -4
+  - 108
+  - 288
+  step-1219_take_146:
+  - -3
+  - 110
+  - 258
+  step-1219_take_147:
+  - -2
+  - 97
+  - 288
+  step-1219_take_148:
+  - -3
+  - 98
+  - 287
+  step-1219_take_149:
+  - -4
+  - 98
+  - 325
+  step-1219_take_153:
+  - -2
+  - 89
+  - 248
+  step-1219_take_154:
+  - 143
+  - 64
+  - 235
+  step-1219_take_155:
+  - -1
+  - 81
+  - 252
+  step-1219_take_156:
+  - -2
+  - 82
+  - 250
+  step-1219_take_157:
+  - -3
+  - 81
+  - 249
+  step-1219_take_158:
+  - -2
+  - 78
+  - 219
+  step-1219_take_160:
+  - -4
+  - 88
+  - 261
+  step-1219_take_161:
+  - -4
+  - 93
+  - 275
+  step-1219_take_162:
+  - -4
+  - 94
+  - 260
+  step-1219_take_163:
+  - -4
+  - 95
+  - 248
+  step-1219_take_164:
+  - -4
+  - 92
+  - 263
+  step-1219_take_165:
+  - -7
+  - 102
+  - 245
+  step-1219_take_166:
+  - -3
+  - 91
+  - 252
+  step-1219_take_167:
+  - -3
+  - 89
+  - 261
+  step-1219_take_168:
+  - -3
+  - 97
+  - 268
+  step-1219_take_57:
+  - -5
+  - 104
+  - 315
+  step-1219_take_58:
+  - -3
+  - 97
+  - 309
+  step-1219_take_59:
+  - -2
+  - 86
+  - 279
+  step-1219_take_60:
+  - -5
+  - 113
+  - 310
+  step-1219_take_61:
+  - -3
+  - 155
+  - 330
+  step-1219_take_62:
+  - -4
+  - 96
+  - 270
+  step-1219_take_63:
+  - -5
+  - 109
+  - 242
+  step-1219_take_64:
+  - -3
+  - 112
+  - 279
+  step-1219_take_65:
+  - -4
+  - 103
+  - 298
+  step-1219_take_66:
+  - -5
+  - 100
+  - 272
+  step-1219_take_67:
+  - -3
+  - 99
+  - 266
+  step-1219_take_68:
+  - -5
+  - 98
+  - 263
+  step-1219_take_69:
+  - 2
+  - 90
+  - 272
+  step-1219_take_70:
+  - 2
+  - 96
+  - 249
+  step-1219_take_71:
+  - -5
+  - 85
+  - 214
+  step-1219_take_72:
+  - 1
+  - 95
+  - 256

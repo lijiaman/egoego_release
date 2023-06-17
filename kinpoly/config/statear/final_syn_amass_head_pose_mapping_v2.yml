@@ -1,0 +1,54 @@
+dataset_path: "/viscam/u/jiamanli/datasets/egomotion_syn_dataset/ego_syn_amass_for_kinpoly/MoCapData"
+meta_id: mocap_meta
+data_file: mocap_annotations
+of_file: mocap_img_feats
+meta_wild_id: real_mocap
+data_wild_file: real_annotations
+of_file_wild: real_img_feats
+
+mujoco_model: 'humanoid_smpl_neutral_mesh'
+seed: 1
+fr_num: 80
+augment: false
+smooth: True
+
+use_of: true 
+use_head: true
+use_action: false
+use_vel: false
+use_context: false 
+
+model_specs:
+  rnn_hdim: 256
+  cnn_fdim: 512
+  mlp_hsize: [1024, 512, 256]
+  mlp_htype: 'relu'
+  rnn_type: "gru"
+  w_hp: 1.0
+  w_hr: 1.0
+  w_vl: 1.0
+  w_va: 1.0
+
+lr: 1.e-4
+weightdecay: 0.0
+num_epoch: 1200
+num_epoch_fix: 100
+num_sample: 5000
+batch_size: 256
+iter_method: iter
+shuffle: true
+save_model_interval: 20
+fr_margin: 5
+has_z: true
+
+step_size: 500 
+
+add_noise: true
+noise_std: 0.01
+
+obs_coord: 'heading'
+root_deheading: true
+obs_global: true
+obs_max_out: true
+obs_max_out_dist: 0.5
+obs_quat: true
